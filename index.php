@@ -1,6 +1,6 @@
 <?php
 $content = <<<HTML
-<p>What's New in Geometry Dash 2.2: A Comprehensive Guide</p>
+<h1>What's New in Geometry Dash 2.2: A Comprehensive Guide</h1>
 <p><a title="Geometry Dash 2.2" href="https://thegeometrydashapks.com">Geometry Dash 2.2</a> represents one of the most significant updates in the game's history, bringing a wealth of new features and improvements to the rhythm-based platformer. After a long wait, this update introduces revolutionary changes that transform the gameplay experience while maintaining the core elements that players have come to love.</p>
 <h2>Major New Features</h2>
 <h3>1. The Platformer Mode</h3>
